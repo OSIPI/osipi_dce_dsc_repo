@@ -5,22 +5,7 @@ o.j.gurney-champion@amsterdamumc.nl
 
 Contains the modification of Extended Tofts model for MRI acquisitions oversampling the center of k-space, such as radial, spiral, PROPELLER trajectories.
 Modification assumes that the image contrast is averaged over an acquisition time of one dynamic as a result of oversampling the center of k-space.
-Modification is based on previously published code by OG_MO_AUMC_ICR_RMH_NL_UK from OSIPI GitHub.
-
-Copyright (C) 2021 by Natalia Korobova, Oliver Gurney-Champion, and Matthew Orton
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Modification is based on previously published code by OG_MO_AUMC_ICR_RMH_NL_UK from the OSIPI GitHub.
 
 requirements:
 scipy
