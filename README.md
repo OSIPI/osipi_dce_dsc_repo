@@ -43,4 +43,4 @@ The results of the validated code are published on the [test-results website](ht
 
 
 
-This is an ongoing project, we welcome new contributions. If you would like to contribute to the OSIPI initiative please email the contacts listed on our [website](https://www.osipi.github.io/task-force-2-3/).
+This is an ongoing project, we welcome new contributions. If you would like to contribute to the OSIPI initiative please email the contacts listed on our [website](https://osipi.github.io/task-force-2-3/).
